@@ -68,8 +68,7 @@ Ils ont également plusieurs score issus de tests de personnalités ayant pour b
 - .gitignore
 - README.md
 
-## Documentation
-
+# Documentation
 - Le fichier drug_consumption.csv est le fichier contenant les données source
 - Le fichier data.py est le script Python à lancer qui créera les différents fichiers excel
 - Le fichier excel_python.ipynb est le Jupyter Notebook avec lequel j'ai expérimenté la création des fichiers excel.
