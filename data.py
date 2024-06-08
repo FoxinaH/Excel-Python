@@ -372,4 +372,4 @@ pie_chart_ws.add_chart(female_chart, "P22")
 # Save the changes
 wb.save('drug_counts.xlsx')
 
-
+print("Fichiers créés avec succès !")
